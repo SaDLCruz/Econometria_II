@@ -5,8 +5,8 @@ El contenido del repositorio hace parte del material utilizado en el curso de Ec
 https://picturesque-money-762.notion.site/Econometr-a-II-1aaf76670a18800abbb4fcadb36b6421?pvs=74
 
 
-\textbf{datos:} contiene las bases de datos utilizadas en el curso.
+Datos: contiene las bases de datos utilizadas en el curso.
 
-\textbf{do-file:} contiene los do-file para las sesiones practicas.
+Do-file: contiene los do-file para las sesiones practicas.
 
-\textbf{lecturas:} contiene los archivos con las lecturas del curso para cada periodo. 
+Lecturas: contiene los archivos con las lecturas del curso para cada periodo. 
