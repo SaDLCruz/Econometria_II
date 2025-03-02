@@ -1,4 +1,12 @@
 # Econometria_II
 
-El repositorio hace parte del curso de Econometría II a nivel de pregrado. Trabajamos tres temas generales: modelos de elección discreta, modelos de series de tiempo y modelos de panel de datos. En el repositorio encontrarán información sobre lecturas, bases de datos y do-file. La parte practica del curso se ofrece haciendo uso del software STATA 18.
- 
+El contenido del repositorio hace parte del material utilizado en el curso de Econometría II del departamento de Economía de la Universidad de Pamplona. En el link de esta descripción se encuentra la información detallada del curso incluyendo fechas importantes de las evaluaciones y las actividades a desarrollar en el periodo académico. 
+
+https://picturesque-money-762.notion.site/Econometr-a-II-1aaf76670a18800abbb4fcadb36b6421?pvs=74
+
+
+\textbf{datos:} contiene las bases de datos utilizadas en el curso.
+
+\textbf{do-file:} contiene los do-file para las sesiones practicas.
+
+\textbf{lecturas:} contiene los archivos con las lecturas del curso para cada periodo. 
